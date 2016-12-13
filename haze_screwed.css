@@ -21,3 +21,4 @@ a:hover, .box a:hover, .tags a:hover {color:#000 !important;}
 .torrent {background-image:none; background-color:#ededed;}
 * {text-transform: none !important} /* No auto-uppercase */
 .linkbox a, table tbody a, .main_column a, .sidebar a, .box a {text-shadow: none; color:rgba(24, 32, 41, 0.65);}
+.group_torrent span a {color:#008800;}
